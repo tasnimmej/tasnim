@@ -31,7 +31,7 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ## Let's Connect
 
- **Linkedin**:<a href =www.linkedin.com/in/tasnim-mejbri-353ba4395 ></a>
+ **Linkedin**:<a href ="www.linkedin.com/in/tasnim-mejbri-353ba4395" ></a>
   
 📍 **Location**: Monastir, Tunisia 🇹🇳
 
