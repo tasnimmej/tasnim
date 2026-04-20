@@ -3,7 +3,6 @@
 Computer Science student at **ISIMM, Monastir** — building my future with code, creativity, and conviction.
 
 [![Monastir, Tunisia](https://img.shields.io/badge/Monastir-Tunisia-006633?logo=tunisia&logoColor=white)](https://en.wikipedia.org/wiki/Monastir,_Tunisia)
-[![Email](https://img.shields.io/badge/Email-D74826?logo=gmail&logoColor=white)](mailto:ahmedsalhi27@tutamail.com)
 
 ---
 
@@ -28,10 +27,9 @@ Computer Science student at **ISIMM, Monastir** — building my future with code
 
 ---
 
-
 ## Let's Connect
 
- **Linkedin**:<a href ="www.linkedin.com/in/tasnim-mejbri-353ba4395" ></a>
+ **Linkedin**:
   
 📍 **Location**: Monastir, Tunisia 🇹🇳
 
